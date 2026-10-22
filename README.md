@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Kunal 👋
+Independent AI Safety Researcher | Red Teamer | Kaggle Competitor (˶ᵔ ᵕ ᵔ˶)
 
-<!--
-**0xKunalsharma/0xKunalsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build open-source LLM evaluations, train transformers from scratch, and run adversarial simulations to understand model behavior under pressure. 
 
-Here are some ideas to get you started:
+#### 🔬 Featured Research
+*   **[Taxlab](https://github.com/0xKunalsharma/Taxlab):** A Rust+Python multi-agent simulation testing LLM tax evasion under pressure. *[Read the write-up](link to EA Forum]*
+*   **[MetaProbe](https://github.com/0xKunalsharma/MetaProbe):** An open-source benchmark evaluating metacognition and calibration in frontier LLMs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Core Infrastructure & Engineering
+*   **[jax-ml-scratch](https://github.com/0xKunalsharma/jax-ml-scratch):** Transformers, tokenizers, and optimizers built entirely from raw JAX.
+*   **[parameter-golf](https://github.com/0xKunalsharma/parameter-golf):** A 9-layer GQA transformer compressed to 15.87 MB via int8 + zlib (OpenAI PR #1038).
+
+#### 🏆 Kaggle & Competitions
+*   **Orbitwars:** Top 20% (957/4,729) - Pure-tensor planner for a 4-player 2D strategy game.
+
+**Currently working on:** Probing the persistence of MSM (Model Spec Midtraining) characters after AFT. 
+
+📫 Reach me: | neo.kunal.s@proton.me
