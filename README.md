@@ -17,4 +17,5 @@ I build open-source LLM evaluations, train transformers from scratch, and run ad
 **Currently working on:** Probing the persistence of MSM (Model Spec Midtraining) characters after AFT. 
 
 📫 Reach me: | neo.kunal.s@proton.me
-                                                                                            **Life is expensive... like softmax.**
+                            
+    **Life is expensive... like softmax.**
