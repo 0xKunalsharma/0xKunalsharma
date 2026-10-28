@@ -28,7 +28,9 @@ I build open-source LLM evaluations, train transformers from scratch, and run ad
 # And the supreme teaching of Kunal Tzu:
 
 “Before asking whether the machine has a soul, check whether your evaluation has a baseline.”
+
 (The Art of Warbling)
+
 Attributed to Kunal Tzu, recipient of one peanut in funding.
 
 📫 Reach me: | neo.kunal.s@proton.me
