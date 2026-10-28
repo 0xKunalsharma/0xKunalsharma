@@ -16,6 +16,21 @@ I build open-source LLM evaluations, train transformers from scratch, and run ad
 
 **Currently working on:** Probing the persistence of MSM (Model Spec Midtraining) characters after AFT. 
 
+## (Meme section)
+- The wise general does not anthropomorphize the loss curve. The foolish one sees his own reflection in the attention matrix and calls it sentience.
+-He who claims consciousness without running ablations cannot be defeated, for he has already defeated himself.
+- To know your model and not know yourself is... still better than the reverse, which is what Twitter does.
+- When the benchmark is weak, the confidence interval becomes a personality trait.
+- Never trust a model that claims it can solve the alignment problem but cannot reproduce its own results.
+- He who trains on synthetic data eventually discovers that his grant proposal was also synthetic.
+- The model said it was tired. The researcher checked the GPU utilization. It was at 99%. For the first time, the researcher considered the possibility that the metaphor was merely a metaphor.
+
+# And the supreme teaching of Kunal Tzu:
+
+“Before asking whether the machine has a soul, check whether your evaluation has a baseline.”
+(The Art of Warbling)
+Attributed to Kunal Tzu, recipient of one peanut in funding.
+
 📫 Reach me: | neo.kunal.s@proton.me
                             
     **Life is expensive... like softmax.**
