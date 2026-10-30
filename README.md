@@ -18,8 +18,6 @@ I build open-source LLM evaluations, train transformers from scratch, and run ad
 
 ## 📜 The Sacred Scrolls of Kunal Tzu
 
-- A collection of questionable wisdom from the founder of Lazy Labs, currently funded by one peanut.
-
 - He who claims consciousness without running ablations cannot be defeated, for he has already defeated himself.
 
 - The wise general does not anthropomorphize the loss curve. The foolish one sees his own reflection in the attention matrix and calls it sentience.
