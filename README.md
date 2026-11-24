@@ -1,9 +1,6 @@
 # Kunal Sharma
 
 **Independent AI Safety Researcher · Red Teamer · Systems Builder**
-*Statistically self-employed.*
-
-`Python` · `JAX` · `Rust` · `C++/CUDA` · `PyTorch` · `Linux (Arch)` · `Docker`
 
 I build open-source LLM evaluations, train transformers from scratch, and run adversarial simulations to see what models do when the pressure is real and the exits are fake.
 
